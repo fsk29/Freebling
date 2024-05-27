@@ -2,9 +2,7 @@
   <h1><strong>Freebling [version-1.1.3]</strong></h1>
 </div>
 
-  <p>
-    <strong>The team includes experts in software development, marketing, and business strategy.</strong>
-  </p>
+
   
 ## Description about Freebling Platform
 <strong>Freebling.io</strong> is a crypto reward platform that offers users access to exclusive <strong>giveaways</strong>, <strong>airdrops</strong>, and <strong>reward tasks</strong>. Users can earn cryptocurrency rewards by completing simple tasks, such as sharing social media posts, joining Telegram groups, or participating in community events. With Freebling.io, users can easily earn rewards and get access to the latest tokens and projects.
