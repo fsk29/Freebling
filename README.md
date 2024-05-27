@@ -28,10 +28,4 @@ yarn dev
 Open [http://localhost:3005](http://localhost:3005) with your browser to see the result.
 
 
-### Thanks ❤️❤️
 
-<div align="center">
-  <a href="https://github.com/coral-xyz/anchor/graphs/contributors">
-    <img src="https://contrib.rocks/image?repo=coral-xyz/anchor" width="100%" />
-  </a>
-</div>
